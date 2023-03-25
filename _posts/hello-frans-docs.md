@@ -50,8 +50,6 @@ To start, let's define what databases are. A database is a collection of data th
 
 There are different types of databases, including relational databases, NoSQL databases, and graph databases. Each type has its own strengths and weaknesses and is suited to different types of projects.
 
-![Alt Text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.seiu1000.org%2Fpost%2Fimage-dimensions&psig=AOvVaw04nZg5WGAmmN0xD1t93va1&ust=1679751427097000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCNivwu3X9P0CFQAAAAAdAAAAABAD)
-
 One of the most popular database management systems for web design is MySQL. MySQL is an open-source relational database management system that is widely used in web applications.
 
 In web design, databases are used to store user information, such as login credentials, personal details, and preferences. Databases are also used to store content, such as blog posts and product descriptions, that can be easily retrieved and displayed on a website.
